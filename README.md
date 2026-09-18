@@ -125,4 +125,3 @@ MIT — feel free to fork for your agency.
 
 ---
 Built with ❤️ from the [BroEditz-video-agency](https://github.com/NutCrackersOrg/BroEditz-video-agency) — frontend extracted & cleaned for standalone demo.
-# bro-editz-frontend
